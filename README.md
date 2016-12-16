@@ -1,3 +1,3 @@
 # hello-world
-hello
-myname is chen janis from Taiwan.
+hello~
+my name is chen janis from Taiwan.
